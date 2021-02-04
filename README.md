@@ -1,3 +1,11 @@
+[![build](https://github.com/ltpitt/java-spring-chuck-norris/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-chuck-norris/actions?query=workflow%3Abuild)
+[![CodeQL](https://github.com/ltpitt/java-spring-chuck-norris/workflows/CodeQL/badge.svg)](https://github.com/ltpitt/java-spring-chuck-norris/actions?query=workflow%3ACodeQL)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-chuck-norris)](https://github.com/ltpitt/java-spring-chuck-norris/issues)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-chuck-norris)](https://github.com/ltpitt/java-spring-chuck-norris/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-chuck-norris?foo=bar)](https://github.com/ltpitt/java-spring-chuck-norris/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring-chuck-norris/blob/master/LICENSE)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 # Java Spring Chuck Norris Jokes
 > This service will allow the consumer to get endless Chuck Norris jokes.
 
